@@ -1,0 +1,4 @@
+### Ignore personal data ###
+
+*.json
+/bin/token.txt
