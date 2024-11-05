@@ -4,11 +4,11 @@ port-forwarding when the access to the router settings is restricted.
 
 ## Instructions for setup
 
-Blah
+.
 
 ## Usage
 
-Blah
+.
 
 ## Tips
 
